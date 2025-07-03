@@ -57,7 +57,7 @@ Esse projeto foi criado para quem quer aprender PHP com HTML de forma prática e
 
 Quer tirar dúvidas ou sugerir melhorias?
 
-📧 **seuemail@exemplo.com**  
+  
 🔗 [linkedin.com/in/vicaronisterc](https://linkedin.com/in/vicaronisterc)  
 🐙 [github.com/vicaronisterc](https://github.com/vicaronisterc)
 
